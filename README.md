@@ -2,6 +2,10 @@
 
 A responsive fitness landing page built using **HTML** and **CSS** as part of a web development course assignment. This project was created to practice modern layout techniques, responsiveness, and UI structuring.
 
+## Live Demo
+
+https://stsumu.github.io/html-css-fitness-website/
+
 ## Features
 
 * Responsive navigation bar with mobile menu
@@ -48,6 +52,4 @@ Original Figma Design : https://www.figma.com/design/GzWVMzdrE3S3ROUvbPzn66/Assi
 
 This project was built as part of a guided learning process in a web development course. It represents an intermediate-level HTML/CSS landing page practice project.
 
-## Live Demo
 
-https://stsumu.github.io/html-css-fitness-website/
